@@ -1,2 +1,2 @@
-# project-leia.github.io
-Webpage for Project LEIA
+# Project LEIA Webpage
+This is the landing page for Project LEIA.

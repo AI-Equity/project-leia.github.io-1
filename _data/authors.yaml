@@ -1,0 +1,8 @@
+Lekaa Rambabu:
+  name        : "Lekaa Rambabu"
+  bio         : "Passionate about promoting equity in AI!"
+  avatar      : "/assets/images/group_members/rambabu.jpeg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www-edc.eng.cam.ac.uk/staff/dr-lekaa-rambabu"

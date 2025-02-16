@@ -19,7 +19,7 @@ the primary studies.
 ![EBM Figure](/assets/images/2024-12-25/critical_practice_guidelines.png)
 
 
-Research on AI technology in medicine has gained momentum over the last two decades, with indexed articles on PubMed increasing from around 1,000 articles in 2000 to over… in 2024. In medical imaging, AI models have been reported to be superior or comparable to clinicians in making certain diagnoses however many studies comparing AI versus clinicians are not prospective, not randomised, are at high risk of bias, and deviate from reporting standards [^fn2].
+Research on AI technology in medicine has gained momentum over the last two decades, with indexed articles on PubMed increasing from around 1,000 articles in 2000 to over 50,000 in 2024. In medical imaging, AI models have been reported to be superior or comparable to clinicians in making certain diagnoses however many studies comparing AI versus clinicians are not prospective, not randomised, are at high risk of bias, and deviate from reporting standards [^fn2].
 For appraisal of primary AI literature in medicine, the following tools have been commonly used:
 
 ## Assessing reporting quality within studies:

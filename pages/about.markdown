@@ -13,18 +13,6 @@ row1:
     url: "https://www-edc.eng.cam.ac.uk/staff/dr-lekaa-rambabu"
     btn_label: "Personal Page"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/group_members/bashford.jpeg
-    title: "Dr Tom Bashford"
-    excerpt: "University Assistant Professor in Healthcare Systems University of Cambridge."
-    url: "https://www-edc.eng.cam.ac.uk/people/tb508.html"
-    btn_label: "Personal Page"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/group_members/smith.jpeg
-    title: "Dr Brandon Smith"
-    excerpt: "Research Associate with the NIHR Global Health Research Group on Acquired Brain and Spine Injury."
-    url: "https://www.eng.cam.ac.uk/profiles/bgs30"
-    btn_label: "Personal Page"
-    btn_class: "btn--inverse"
 row2:
   - image_path: /assets/images/group_members/coffey.jpg
     title: "Claire Coffey"
